@@ -1,0 +1,10 @@
+# Where Computer Science Meets Philosophy
+
+### 1
+Hey, everyone! I'm Jackie Luo, and I'm a double-major in computer science and philosophy. Some people think that it's strange to combine a major that's so applied and technical with one that's abstract and impractical, but I've found that the two are a natural fit. And, to be fair, there's a long line of major people in tech who studied philosophy, so it's not just me. Peter Thiel, Marissa Mayer, Reid Hoffman, Paul Graham, Stewart Butterfield... all of them did it, too.
+
+### 2
+Stewart Butterfield was a co-founder of Flickr back in the day, but he's more popularly known now as the founder of Slack, the buzziest enterprise software company out there. I'm guessing that a lot of you saw that article in *Forbes*, "That 'Useless' Liberal Arts Degree Has Become Tech's Hottest Ticket." The author makes the case that learning to think precisely and analytically, simplifying complex arguments, can be a really effective skill in tech.
+
+### 3
+Here are some of the principles in philosophy that make it so relevant to tech. First, you have to question basic assumptions. In philosophy, nothing is sacred; nothing is taken for granted. Take a pretty basic question: what does it mean to know something? What constitutes knowledge? Well, any five-year-old can tell you that they know something without being able to explain what that entails. The historically accepted conditions are called the JTB account. Justified true belief. You know a proposition *p* if, first, *p* is true, second, you believe that *p* is true, and third, you are justified in believing that *p* is true. Intuitively, that sounds right, right? You can't know something that isn't true, you can't know something if you don't believe that it's true, and you can't know something if you believe that it's true for the wrong reasons. Well, no, you don't. I won't get into the details, but Edmund Gettier, a philosopher, published a paper that established the "Gettier problem," instances of justified true beliefs that people wouldn't consider knowledge.
