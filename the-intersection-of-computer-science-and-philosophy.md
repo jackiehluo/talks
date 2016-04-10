@@ -1,4 +1,4 @@
-# Where Computer Science Meets Philosophy
+# The Intersection of Computer Science and Philosophy
 
 ### 1
 Hey, everyone! I'm Jackie Luo, and I'm a double-major in computer science and philosophy. Some people think that it's strange to combine a major that's so applied and technical with one that's abstract and impractical, but I've found that the two are a natural fit. And, to be fair, there's a long line of major people in tech who studied philosophy, so it's not just me. Peter Thiel, Marissa Mayer, Reid Hoffman, Paul Graham, Stewart Butterfield... all of them did it, too.
