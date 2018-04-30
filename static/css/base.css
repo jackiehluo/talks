@@ -1,14 +1,14 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic,600italic);
+@import url('https://rsms.me/inter/inter-ui.css');
 
 body, html {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-family: "Inter UI", Helvetica, sans-serif;
     font-size: 16px;
     text-align: center;
     color: #222222;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-family: "Inter UI", Helvetica, sans-serif;
     font-weight: 600;
     line-height: 1.4;
 }
